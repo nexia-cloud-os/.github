@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Nexia 개발자 통합 지원 / Developer support
+    url: https://github.com/nexia-cloud-os/developer-support/issues/new/choose
+    about: 설치·CLI·SDK·Docker·AI 도구·샌드박스 문제를 한 곳에 신고합니다.

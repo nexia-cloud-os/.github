@@ -26,5 +26,6 @@ Core, business App implementations, and internal runtime services are maintained
 in private repositories. Public developer tools expose contracts without
 distributing Core implementation source.
 
-Use each repository's issues for reproducible developer-tool problems. Do not
-include access tokens, personal data, or payment details in public reports.
+Report developer setup, SDK, CLI, Docker, AI-tool and sandbox problems in the
+[central developer support tracker](https://github.com/nexia-cloud-os/developer-support/issues). Search existing reports first;
+never include credentials, private Core source or customer data.
